@@ -1,4 +1,3 @@
 vless://0ff9cc62-3c8b-41a0-a723-3eae4fb19b52@hw111.roghanmo.com:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-Backup1
 vless://cbb78f48-7ea6-4304-b228-816c7afd72e7@ig1.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=ig1.modemjibi.com.#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-Backup2
 vless://4e11ffac-bf35-406e-be56-dc0ae9ed2d18@ifi1.modemjibi.com:993?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&fp=chrome&type=ws&sni=ifi1.modemjibi.com.#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-Backup3
-vless://fa8181c2-d464-4e33-ace5-e4caebcaaa83@hw144.roghanmo.com:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-Backup5
